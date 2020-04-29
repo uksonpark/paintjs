@@ -1,3 +1,5 @@
+const first;
+
 function init() {
 
 }
