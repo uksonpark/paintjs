@@ -47,7 +47,7 @@ Painting Board made with VanillaJS
 
 [logo]: http://www.gstatic.com/webp/gallery/2.jpg "kayaking."
 
-리액트 홈페이지로 이동: [![React]([/images/vue.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40donggyu9410%2F%25EB%2582%25B4%25EA%25B0%2580-%25EB%25A6%25AC%25EC%2595%25A1%25ED%258A%25B8%25EB%25A5%25BC-%25EC%25A2%258B%25EC%2595%2584%25ED%2595%2598%25EB%258A%2594-%25EC%259D%25B4%25EC%259C%25A0-5ccee228476a&psig=AOvVaw3pUjC43W-6E7Tz1Za_vqqm&ust=1589011420858000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCh9fzmo-kCFQAAAAAdAAAAABAD) "리액트 홈페이지로 이동")](https://reactjs.org/)
+리액트 홈페이지로 이동: [![React](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40donggyu9410%2F%25EB%2582%25B4%25EA%25B0%2580-%25EB%25A6%25AC%25EC%2595%25A1%25ED%258A%25B8%25EB%25A5%25BC-%25EC%25A2%258B%25EC%2595%2584%25ED%2595%2598%25EB%258A%2594-%25EC%259D%25B4%25EC%259C%25A0-5ccee228476a&psig=AOvVaw3pUjC43W-6E7Tz1Za_vqqm&ust=1589011420858000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCh9fzmo-kCFQAAAAAdAAAAABAD "리액트 홈페이지로 이동")](https://reactjs.org/)
 
 ```javascript
 console.log("Hello World);
